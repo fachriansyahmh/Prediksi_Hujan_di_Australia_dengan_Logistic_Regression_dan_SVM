@@ -1,6 +1,6 @@
 # Prediksi Hujan di Australia dengan Logistic Regression dan SVM
 
-buka link berikut untuk detail projectnya : <a ref="https://github.com/fachriansyahmh/Prediksi_Hujan_di_Australia_dengan_Logistic_Regression_dan_SVM/blob/main/PYTN_KampusMerdeka_FP2_Fachriansyah_Muhammad-Haikal.ipynb" target="_blank">Project</a>
+buka link berikut untuk detail projectnya : <a href="https://github.com/fachriansyahmh/Prediksi_Harga_Uber_dan_Lyft_di_Boston_Menggunakan_Linear_Regression/blob/main/PYTN_KampusMerdeka_FP1_Fachriansyah-Muhammad-Haikal.ipynb" target="_blank">Project</a>
 
 
 ## Latar Belakang
